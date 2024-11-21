@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Wisdom of Buddha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="breath">Breathing reduces depression by calming the nervous system, lowering cortisol, enhancing mindfulness, and improving mood.</string>
+
+    <string name="quote1">"Peace comes from within. Do not seek it without.”\n – Buddha</string>
+    <string name="quote2">“The mind is everything. What you think you become.”\n – Buddha</string>
+    <string name="quote3">“Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.”\n – Buddha</string>
+    <string name="quote4">“Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.” \n– Buddha</string>
+    <string name="quote5">“In the end, these things matter most: How well did you love? How fully did you live? How deeply did you let go?” \n– Buddha</string>
+    <string name="quote6">“No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.” \n– Buddha</string>
+
+
+    <string name="texthintbrath">Box breathing is a calming technique that involves inhaling, holding, exhaling, and pausing for 4 seconds each cycle.</string>
+
+    <string name="texthintbrathadv">Relaxation Breathing is a calming technique that involves inhaling, holding, exhaling, and pausing for 4 7 8 seconds each cycle.</string>
+
+
+    <string name="rule1">While there\'s no strict set of rules for meditation, these guidelines can help you establish a consistent and effective practice</string>
+    <string name="rule2"> <b>1. Find a Quiet Space:</b>b \n  * <b>Minimize distractions:</b> Choose a place where you won\'t be disturbed by noise or interruptions. \n <b>   *Create a peaceful atmosphere :</b>  Use soft lighting, comfortable seating, and soothing sounds if desired.\n <b>2. Set a Regular Time:</b> \n    <b>* Consistency is key:</b> Try to meditate at the same time each day to create a habit. \n <b> * Start small:</b> Even a few minutes of daily meditation can be beneficial. \n <b> 3. Maintain a Comfortable Posture:</b>\n<b>     * Sit upright: </b> Choose a posture that allows you to sit comfortably without falling asleep. \n <b>      * Relax your body:</b> Pay attention to any tension and consciously release it.\n<b>4. Focus on Your Breath:</b> \n <b>      * Observe your breath: </b> Notice the sensation of your breath as it enters and exits your body. \n <b>      * Let go of thoughts:</b> When your mind wanders, gently bring your attention back to your breath. \n <b>5. Practice Mindfulness:</b>  \n <b>      * Be present:</b>  Focus on the present moment without dwelling on the past or worrying about the future.\n <b>       * Observe your thoughts:</b> Notice your thoughts without judgment and let them pass. \n<b>6. Be Patient and Persistent:</b>\n <b>      * Mindfulness takes time:</b>  It may take time to develop a deep meditation practice.\n <b>     * Don\'t give up:</b>  Keep practicing, and you\'ll gradually see the benefits.\n <b>7. Experiment with Different Techniques:</b> \n <b>      * Guided meditation:</b> Listen to guided meditations to help focus your attention. \n<b>      * Visualization:</b> Create mental images to enhance your meditation experience.</string>
+
+
+</resources>

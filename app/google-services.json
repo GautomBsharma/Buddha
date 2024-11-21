@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292450887959",
+    "project_id": "buddhas-spring",
+    "storage_bucket": "buddhas-spring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292450887959:android:79c7c9a3a4c0cb541a6f52",
+        "android_client_info": {
+          "package_name": "com.mksolution.buddasspring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZvyg9gSP7-dQ-w2zl49Z6kByMAKgmY8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
